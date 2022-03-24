@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* The Great Gatsby
+* Till the Last Breath
+* Tom Sawyer
+* Invisible Man
+* Crime and Punishment
